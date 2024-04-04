@@ -1,0 +1,16 @@
+
+'''
+
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.sqlite-journal
+__pychache__/
+*.egg-info/
+*.egg
+media/
+
+'''
